@@ -4,7 +4,7 @@ export const experiences = [
     title: 'Software Engineer',
     company: "Pearson",
     description:" Responsibities : At Pearson, I developed automated grading and assessment platforms using Node.js, Java, and GraphQL. I built secure, scalable microservices, integrating AI-powered feedback with OpenAI GPT, and used Kafka for high-volume code evaluation workflows. I enhanced platform reliability through TDD with Mockito, Docker-based execution, and cloud deployment on AWS, supporting 10K+ concurrent learners.",
-    duration: "(May 2024 - Present)"
+    duration: "(Jan 2024 - Present)"
   },
   {
     id: 2,
@@ -20,4 +20,5 @@ export const experiences = [
     description:"Responsibities :  At TCS, I developed a manufacturing workflow management system with React.js, C#/.NET, and REST APIs. I built real-time analytics dashboards, designed role-based authorization, and optimized order tracking processes, improving operational efficiency by 45%. I deployed scalable infrastructure using Kubernetes on Azure and mentored junior developers in Agile teams.",
     duration: "(Feb 2021 - Oct 2022)"
   }
+
 ]
