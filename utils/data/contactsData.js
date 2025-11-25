@@ -1,6 +1,6 @@
 export const contactsData = {
-    email: 'pavanironanki55@gmail.com',
-    address: 'Ames, Iowa, United States ',
+    email: 'ronanki.pavani99@gmail.com',
+    address: 'Austin, Texas, United States ',
      github: 'https://github.com/pavanironanki',
   linkedIn: 'https://www.linkedin.com/in/pavanironanki',
   leetcode: "https://leetcode.com/pavanironanki/",
